@@ -1,0 +1,10 @@
+Batch ID,Batch Name,Department Name,List of Courses,List of Students
+Ba1,Batch1,Depa1,Co1,Stu1:Stu2:Stu3
+Ba1,Batch1,Depa1,Co2,Stu1:Stu2:Stu3
+Ba2,Batch2,Depa1,Co1,Stu4:Stu5
+Ba3,Batch3,Depa2,Co2,Stu6:Stu7:Stu8:Stu9
+Ba3,Batch3,Depa2,Co3,Stu6:Stu7:Stu8:Stu9
+Ba3,Batch3,Depa2,Co4,Stu6:Stu7:Stu8:Stu9
+Ba4,Batch4,Depa1,Co4,Stu10
+Ba5,Batch5,Depa2,Co1,Stu11:Stu12:Stu13:Stu14
+Ba5,Batch5,Depa2,Co3,Stu11:Stu12:Stu13:Stu14
